@@ -1,0 +1,11 @@
+Model Information:
+* title:	Interactive Architectural Building Model
+* source:	https://sketchfab.com/3d-models/interactive-architectural-building-model-a3f9604202514c38a4fb7a719fe8af6a
+* author:	vivecreative (https://sketchfab.com/creativesip)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Interactive Architectural Building Model" (https://sketchfab.com/3d-models/interactive-architectural-building-model-a3f9604202514c38a4fb7a719fe8af6a) by vivecreative (https://sketchfab.com/creativesip) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
